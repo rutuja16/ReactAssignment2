@@ -1,0 +1,44 @@
+
+label{
+    color:black;
+    font-size: 20px;
+    margin-left:2%;
+}
+
+input{
+    color:black;
+    font-size: 20px;
+    padding: 10px;
+    margin-left:2%;
+    border-radius: 20px;
+    width:20%;
+}
+button{
+    width:20%;
+    padding: 1%;
+    border-radius: 30px;
+    background-color: aqua;
+
+}
+
+.mainDiv{
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    margin:2% 5% ;
+    width:1200px;
+    height: inherit;
+    background-color: rgb(154, 207, 249);
+}
+.data{
+    border: 2px solid black;
+    background-color: rgb(245, 161, 175);
+    width:500px;
+    height:100px;
+    margin:1% 2%;
+    padding: 1% 1% 2%;
+    height:40%;
+    border-radius: 20px;
+    font-size: 20px;
+}
+

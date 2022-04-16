@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background-image: linear-gradient(0deg,rgb(248, 225, 229),pink,rgb(192, 222, 234),rgb(124, 221, 241));
+  height:800px;
+}
+
